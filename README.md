@@ -5,6 +5,5 @@
 pkg install git -y
 git clone https://github.com/MegaDaniil173/MegaTermux 
 cd MegaTermux
-chmod +x install.sh
-./install.sh
+bash install.sh
 
